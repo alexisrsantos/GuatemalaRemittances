@@ -2,6 +2,8 @@
 ## Introduction 
 Here, we provide the code and data needed to replicate our study of remittances in Guatemala published in [Economic Letters](https://www.sciencedirect.com/journal/economics-letters). 
 
+![Remittances received in excess of expected levels](Fig2.png)
+
 ## Citation 
 > Santos-Lozada, Alexis R. and Cuxil, Ernesto (2025). The effects of the COVID-19 pandemic on Remittances in Guatemala: A Causal Impact Analysis. *Economic Letters*.
  
