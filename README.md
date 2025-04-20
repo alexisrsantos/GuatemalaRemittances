@@ -15,6 +15,6 @@ $^{2}$ Independent Researcher, Guuatemala
 ## Content
 This repository incldes:
 
-* Processed data on remittances and foreing currency reserves for Guatemala 2002-2024
+* Processed data on remittances (in USD) and foreing currency reserves (in Quetzales) for Guatemala 2002-2024
 * Code contains the R code used to produce our analysis.
 
