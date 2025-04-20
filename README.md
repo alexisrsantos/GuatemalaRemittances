@@ -1,8 +1,8 @@
 # The Effect of the COVID-19 pandemic on Remittances in Guatemala: A Causal Impact Analysis
 ## Introduction 
 Here, we provide the code and data needed to replicate our study of remittances in Guatemala published in [Economic Letters](https://www.sciencedirect.com/journal/economics-letters). 
-#
- 
+
+#Summary Figure
 ![Remittances received in excess of expected levels](Fig2.png)
 This combined figure shows the causal impact (A) and excess estimates (B). 
 
