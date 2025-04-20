@@ -5,8 +5,7 @@ Here, we provide the code and data needed to replicate our study of remittances 
 ## Citation 
 > Santos-Lozada, Alexis R. and Cuxil, Ernesto (2025). The effects of the COVID-19 pandemic on Remittances in Guatemala: A Causal Impact Analysis. 
  
-## Citation
-
+## Authors
 Santos-Lozada, Alexis R. $^{1}$ and Cuxil, Ernesto $^{2}$ 
 
 $^{1}$ Department of Human Development and Family Studies, The Pennsylvania State University, University Park, PA 16802 
