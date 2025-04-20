@@ -11,7 +11,7 @@ Santos-Lozada, Alexis R. $^{1}$ and Cuxil, Ernesto $^{2}$
 
 $^{1}$ Department of Human Development and Family Studies, The Pennsylvania State University, University Park, PA 16802 
 
-$^{2}$ Independent Researchers, Guuatemala
+$^{2}$ Independent Researcher, Guuatemala
 
 ## Content
 This repository incldes:
